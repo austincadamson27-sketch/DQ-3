@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background-color: #f5f7fb;
+  color: #222;
+  margin: 0;
+  padding: 40px 20px;
+}
+
+h1 {
+  color: #1f4e79;
+  margin-bottom: 20px;
+}
+
+p {
+  max-width: 650px;
+  margin: 12px auto;
+  line-height: 1.6;
+  font-size: 16px;
+}
+
+.profile-img {
+  width: 300px;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 12px;
+  border: 4px solid #1f4e79;
+  margin: 20px auto;
+  display: block;
+}
+
+.style-reason {
+  margin-top: 25px;
+  font-style: italic;
+  color: #444;
+}
